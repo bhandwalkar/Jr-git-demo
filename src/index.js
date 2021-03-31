@@ -6,3 +6,5 @@ const foo = () => {
 const zoo = () => {
     return 'lion';
 }
+
+console.log(zoo());
