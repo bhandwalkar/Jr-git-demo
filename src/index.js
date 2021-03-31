@@ -8,3 +8,7 @@ const zoo = () => {
 }
 
 console.log(zoo());
+
+const baz = () => {
+    return 'baz';
+}
