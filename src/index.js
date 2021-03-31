@@ -9,6 +9,7 @@ const zoo = () => {
 
 console.log(zoo());
 
-const baz = () => {
-    return 'baz';
+const doSqaureAndFactorise = (number) => {
+    let result;
+    return result;
 }
