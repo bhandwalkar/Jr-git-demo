@@ -11,5 +11,6 @@ console.log(zoo());
 
 const doSqaureAndFactorise = (number) => {
     let result;
+    result = factorial(result); 
     return result;
 }
